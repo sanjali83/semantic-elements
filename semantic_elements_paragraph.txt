@@ -1,0 +1,4 @@
+
+Semantic element of HTML is using HTML tag in a way, that will add meaning to content of Web Page. In this the HTML element becomes both semantic and presentational, means people know what paragraph are and browser know how to display them.
+Semantic element is also very useful for web search. Search engines generally search pages without style, rather they use markup language to find important content on the page. If search information is written in correct semantic tag, search robots can easily find information and return the page in result.
+Styling the documents becomes very easy when web content is written using Semantic tag, if any changes in design is required in future the exercise became very simple. Also, many user agents (e.g. Mobile device) don’t understand stylesheet, they only understand markup language. Writing web page using semantic markup, decreases styling dependency and increase device portability.
